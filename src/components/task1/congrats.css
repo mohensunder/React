@@ -1,0 +1,14 @@
+.mre{
+    background-image:url(" https://assets.ccbp.in/frontend/react-js/congrats-card-bg.png");
+    background-size: cover;
+    height:100vh;
+    padding-top: 100px;
+}
+.mrs{
+    background-color: aqua;
+    height:450px;
+    width:380px;
+    margin: 0 auto;
+    padding-top: 50px;
+    text-align: center;
+}

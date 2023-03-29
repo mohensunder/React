@@ -1,0 +1,32 @@
+.her{
+    background-color:blueviolet;
+    background-size: contain;
+    height: 100vh;
+    width: 100vw;
+    padding-top: 50px;
+}
+.her1{
+    background-color: white;
+    height:90%;
+    width: 80%;
+    margin: 0 auto;
+    border-radius: 40px;
+}
+.her3{
+    height:300px;
+    width:300px;
+
+}
+button{
+    background-color: aqua;
+    border-radius: 25px;
+    width: 190px;
+    /* outline: none; */
+}
+ul li{
+    list-style-type: none;
+    display: inline;
+}
+.her5{
+    color:green;
+}
